@@ -1,23 +1,23 @@
 ## Quick Checklist for College Students
 
-1. Enable 2FA: Use an authenticator app (not just SMS) for college email, LMS, and social media accounts.
+1. Use an authenticator app for college emails and other social media accounts.
 
-2. Delete old accounts: Deactivate unused profiles from past internships, fests, or trials to prevent data leaks.
+2. Deactivate unused profiles from prior internships and fests to prevent any type of data leaks.
 
-3. Avoid public Wi-Fi: Don’t access bank apps or UPI on cafe/railway Wi-Fi; use a VPN if necessary.
+3. Don’t access your bank apps or UPI on public places' WiFi, use a VPN if necessary.
 
-4. Verify links in groups: Confirm fest, internship, or exam links via a trusted contact before clicking.
+4. Confirm internship or exam links from a trusted contact before clicking on them to avoid viruses or hackers.
 
-5. Lock your devices: Set a 30-second auto-lock and never share your phone password or pattern.
+5. Set a quick autolock on your devices and don't share your phone password or pattern with anybody.
 
-6. Use a secondary UPI ID: Create an alias (VPA) in your app for small payments instead of using your mobile number.
+6. Create an alias in your app for small payments instead of using your mobile number.
 
-7. Never approve a "Request": Always initiate payments yourself. If a "Request Money" pop-up appears, decline it.
+7. Always initiate your payments yourself.
 
-8. Keep a separate banking SIM: Use one SIM only for bank/UPI alerts and another for social media and deliveries.
+8. Use one SIM only for your bank alerts and another for your social media and deliveries to avoid personal information leak.
 
-9. Hide your UPI screen: Avoid sharing screenshots of your UPI home screen showing your balance or transaction history.
+9. Don't share screenshots of your UPI payments or transactions.
 
 10. Portal:cybercrime.gov.in (for financial fraud & cyber harassment)
 
-11. Helpline:1930 (call immediately for UPI/banking scams to freeze the account)
+11. Helpline number:1930 (for UPI/bank scams to freeze the account)
